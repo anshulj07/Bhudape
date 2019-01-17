@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        .styleheader
+{       margin-top: 10px;
+	background-color: rgba(0,0,0,0);
+	width: 100%;
+        position: fixed;
+        top:0;
+        z-index: 999;
+
+}
+body{
+	/* background-color: #4682B4; */
+/*         color: rgba(0, 0, 0, 0.5);*/
+	 font-family: arial;
+	 font-size:18px;
+	 margin: 0;
+         color: rgba(0, 0, 0, 0.5);
+
+}
+.myTheme
+{   
+     background-color: rgba(255,255,255,1);
+    font-size: 15px;
+    width:14.28%;
+}
+.myTheme:hover
+{
+   background-color: rgba(0,0,0,0);
+   font-family: arial;
+
+}
+{
+    
+    
+}
+.logo
+{
+	font-size:30px;
+	width: 30%;
+	float: left;
+	color: #fff;
+}
+.rightul {
+    padding-top: 11px !important;
+    width: 70%;
+    float: right;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+a:hover {
+   color: #fff;
+}
+a{
+	text-decoration: none;
+}
+
+
+.backtheme
+{
+	background: url('sss.png');
+        background-repeat : no-repeat;
+	width:100%;
+	height: 700px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	/* background-attachment: fixed; */
+
+
+}
+
+.fh5co-text:hover {
+    color: white;
+  background: #000;
+}
+.fh5co-text {
+    width: 33.33%;
+    background: #fff;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    float: left;
+}
+.fh5co-text>div {
+/*    color: rgba(0, 0, 0, 0.5);*/
+    padding: 15px;
+    text-align: center;
+}
+.section-heading{
+color: white;
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.marquee-div {
+  
+    padding: 20px;
+   
+}
+.about-us {
+    background-color: rgba(138, 20, 22, 1);
+    padding: 40px 0;
+    width: 100%;
+    float: left;
+    -webkit-clip-path: polygon(0 13%, 100% 0, 100% 87%, 0% 100%);
+    clip-path: polygon(0 13%, 100% 0, 100% 87%, 0% 100%);
+}
+.works-div {
+    padding: 40px 0;
+/*    background:url('poverty.jpg');*/
+/*    background-size: cover;*/
+ background-color: rgba(138, 20, 22, 1);
+    background-repeat: no-repeat;
+/*    background-color: #ddd;*/
+    width: 100%;
+    float: left;
+    
+}
+
+.specialisation, .contact-us{
+    
+	padding: 40px 0;
+	width: 100%;
+    float: left;
+}
+.about-us-text {
+    width: 60%;
+    margin: 0 auto;
+}
+
+img.icon-img {
+    width: 30px;
+    margin-top: -5px;
+    display: inline-block;
+}
+.contact-us-child{
+	text-align: center;
+}
+.contact-us-child a {
+    font-size: 24px;
+    color: blue;
+}
+footer {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    background: #171717;
+}
+span.border-span {
+    width: 1px;
+    height: 5px;
+    border: 1px solid;
+    margin: 0 9px 0px 7px;
+}
+.about-us-text
+{
+    color:white;
+    font-size:20px;
+    text-align: center;
+}
+input.submit-button {
+    border-radius: 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+    color: #fff;
+    background: red;
+/*    background: #10609e;*/
+    margin-top: 20px;
+    font-size: 15px;
+    width: 300px;
+    padding: 13px 0px;
+    border: none;
+    text-align:center;
+}
+.contactusheading{
+   color: rgba(138, 20, 22, 1);
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center; 
+}
+    </style>
+<head>
+	<title>BUDHAPE KI LATHI</title>
+	<!--<link rel="stylesheet" type="text/css" href="css/edumat.css">-->
+</head>
+<body>      
+	
+    <div class="backtheme">
+
+	
+    <header class="styleheader">
+   
+	
+        <h1 class="logo">&nbsp;&nbsp;&nbsp;BUDHAPE KI LATHI</h1>
+       
+                <table width = 100% border="0">
+            <tr align = "center"> 
+                
+                <td class="myTheme"><a href="Budape.html"><b>Home</b></a></td>
+                <td class="myTheme"><a href="aboutus.html"><b>About Us</b></a></td>
+                <td class="myTheme"><a href="initiatives.html"><b>Initiative</b></a></td>
+                <td class="myTheme"><a href="getinvolved.html"><b>Get Involved</b></a></td>
+                <td class="myTheme"><a href="gallery.html"><b>Gallery</b></a></td>
+                <td class="myTheme"><a href="media.html"><b>Media</b></a></td>
+                <td class="myTheme"><a href="contactus.html"><b>Contact Us</b></a></td>
+                
+            </tr>
+                
+        </table>
+<!--     <div>
+		<h1 style="padding-top: 10% ;text-align:right;">
+			<span class="spantext">
+				Love your mother you will never get another!!
+			</span><br>
+			<span class="spantext1">
+				In the evening of their lives,
+
+
+			</span><br>
+                        <span class="spantext1">
+				
+                                Help Us Help Them…
+
+			</span>
+		</h1>
+	</div>-->
+    </header>
+    </div>
+	
+	<div class="marquee-div">
+		<marquee>Hands that serves are holier than lips that pray.</marquee>
+<!--                <marquee>Making someone smile is the most beautiful thing in the world</marquee>-->
+	</div>
+	<div class="about-us">
+		<h2 class="section-heading">About us</h2>
+		<p class="about-us-text">Budhape ki lathi-OLd Age Care compare the facilities provided to senior citizens from different NGOs and Old Age Homes, and is designed to assist residents with their activities of daily living in a home-like environment, residents can avail multiple services including vegetarian meals, housekeeping and laundry services, medication management and transportation assistance.Old age home has been set up with the aim of providing home comforts and peace of mind to seniors seeking peace and calm. </p>
+	</div>
+	<div class="specialisation">
+		<h2 class="section-heading">Selection of courses</h2>
+		<div class="fh5co-text">
+			<div>
+				<h2>Our Aim</h2>
+				<p> The objective of Bhudape ki Lathi is to provide care and succor to the old,residential care with full boarding & lodging facility to the old with medical care nursing care to the old, belonging mostly to poor & middle class individuals (above 60 years of age) of all denominations.			</p>
+			</div>
+		</div>
+		<div class="fh5co-text">
+			<div>
+				<h2>Mission and Vision</h2>
+				<p>A Home Away From Home<br> is an attempt to provide a homely and respectable living for the Elders with utmost commitment, dedication, trust and care to promote compassion and love.
+
+The entire staff are committed to the physical, mental, emotional and spiritual well being of the Elders, in order to provide them with comfortable living with dignity and fullness - In The Evening Of Their Lives.
+				</p>
+			</div>
+		</div>
+		<div class="fh5co-text">
+			<div>
+				<h2>Health Care and Facilities</h2>
+				<p>  The Homes are adorned by all medical equipments and nursing care by nurses trained in Geriatrics, Doctor-Specialists on call, Physiotherapy. Complete medical check up is carried out for every Elderly at the time of admission and the records are maintained periodically. providing shelter, the program aims to support senior citizens and help with their emotional and physical challenges. The Home and its staff give moral support and try to put a smile back on the faces of elderly clients with no one to look after them.
+
+			</p>
+			</div>
+		</div>
+		</div>
+	</div>
+	<div class="works-div">
+		<h2 class="section-heading"><b>Donation</b></h2>
+		<div>
+			<p style="color:white;text-align:center;">
+                           <b > A donation is a gift for charity, humanitarian aid, or to benefit a cause. <br>A donation may take various forms, including money, alms, services, or goods such as clothing, toys, food, or vehicles.<br> A donation may satisfy medical needs such as blood or organs for transplant.<br>
+                            <br>-Giving is not just about make a donation,<br>it's about making a difference.<br><br>
+                            -We make a living by what we get,<br>but we make a life by what we give.<br>
+                           </b>
+                        </p>
+		</div><br><br><br>
+<!--                <form style="text-align:center;">
+                <a href="aboutus.html">
+                <input class="submit-button" value="DONATE NOW" type="submit">
+                </a>
+                    
+                </form>-->
+<div style="text-align=center;width=100%;">
+   
+    <a href="donatenow.html" ><b>DONATE NOW</b></a>
+                
+</div>	
+        </div>
+	<div class="contact-us">
+		<h2 class="contactusheading">Contact Us</h2>
+		<div class="contact-us-child">
+			<a href="https://api.whatsapp.com/send?phone=917999474505" target="_blank"><img src="logo_whatsapp.png" class="icon-img"> +91 7999474505</a>
+			<br/>
+			<a href="mailto:mayank.sharma1698@gmail.com"><img src="email-icon.png" class="icon-img"> mayank.sharma1698@gmail.com</a>
+		</div>
+	</div>
+	<footer>
+		<p class="footer-text">Developed by</p> 
+		<p class="footer-text">Anshul Jain<span class="border-span"></span> Mayank Sharma</p>
+		<p>Copyright 2018</p>
+	</footer>
+</body>
+</html>

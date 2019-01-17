@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        .styleheader
+            {       margin-top: 10px;
+                    background-color: rgba(138, 20, 22, 1);
+                width: 100%;
+                 float: left;
+                height:130px;
+                
+               
+            }
+            footer {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    background: #171717;
+}
+     body{
+	
+	 font-family: arial;
+	 font-size:18px;
+	 margin: 0;
+         color: #fff;
+
+        }
+        .about-us {
+    background-color: #fff;
+    padding: 40px 0;
+    width: 100%;
+    float: left;
+    
+
+        }
+        span.border-span {
+    width: 1px;
+    height: 5px;
+    border: 1px solid;
+    margin: 0 9px 0px 7px;
+}
+    .logo
+
+    {margin-top: 50px;
+	font-size:30px;
+	width: 30%;
+	float: left;
+	color: #fff;
+       
+
+    }
+/*    .contentheader{
+     width: 100%;
+                 float: left;
+                 background-color:#fff;
+                 color:rgba(138, 20, 22, 1);
+    
+
+    }*/
+    .section-heading{
+    color:  rgba(138, 20, 22, 1);
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.about-us-text {
+    color:  rgba(138, 20, 22, 1);
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}.rightul {
+    padding-top: 40px !important;
+    width: 70%;
+    float: right;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+a:hover {
+    color: rgba(255, 255, 255, 1);
+}
+a{
+	text-decoration: none;
+}
+.contact-us-child{
+	text-align: center;
+}
+.contact-us-child a {
+    font-size: 24px;
+    color: blue;
+}
+.contactusheading{
+   color: rgba(138, 20, 22, 1);
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center; 
+}
+img.icon-img {
+    width: 30px;
+    margin-top: -5px;
+    display: inline-block;
+}
+
+
+
+    </style>
+<head>
+	<title>BUDHAPE KI LATHI</title>
+</head>
+<body>
+    <div>
+        <header class="styleheader">
+   
+	
+        <h1 class="logo">&nbsp;&nbsp;&nbsp;BUDHAPE KI LATHI</h1>
+        <ul class="rightul">
+            <li><a href="Budape.html"><b>BACK TO HOME</b></a></li>
+        </ul>
+        </header>
+    </div>
+    <div class="about-us">
+        
+        <h2 class="section-heading">CONTACT US</h2>
+        <p class="about-us-text"><br><br>Dear Visitor,<br><br>
+
+We know that once you have read all about us, you would not like to leave without getting to know a little more about us or clarifying some of the questions that may have just popped into your head!  We know you care for them just as we do. We are sure that some of you would want to really come down, see who we are and what we actually do. 
+<br><br>Use Google to help you reach us!<br>
+
+But we are sure there are quite a few kind hearted ones out there who are interested in helping us out but then may be hard pressed for time. But yes, there is hope! All you would need to do is to just open your mailbox and send us a mail right away or pick up the phone and call us! We are as eager to attend to you as we are to serving the elders in our ashram. Our email IDs and phone numbers are listed below for your kind reference
+
+<br><br>
+</p>
+        
+		<h2 class="contactusheading">Contact Us</h2>
+		<div class="contact-us-child">
+			<a href="https://api.whatsapp.com/send?phone=917999474505" target="_blank"><img src="logo_whatsapp.png" class="icon-img"> +91 7999474505</a>
+			<br/>
+			<a href="mailto:mayank.sharma1698@gmail.com"><img src="email-icon.png" class="icon-img"> mayank.sharma1698@gmail.com</a>
+		</div>
+	
+    </div>
+    <footer>
+		<p class="footer-text">Developed by</p> 
+		<p class="footer-text">Anshul Jain<span class="border-span"></span> Mayank Sharma</p>
+		<p>Copyright 2018</p>
+	</footer>
+</body>
+</html>
+

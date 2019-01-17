@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        .styleheader
+            {       margin-top: 10px;
+                    background-color: rgba(138, 20, 22, 1);
+                width: 100%;
+                 float: left;
+                height:130px;
+                
+               
+            }
+            footer {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    background: #171717;
+}
+     body{
+	
+	 font-family: arial;
+	 font-size:18px;
+	 margin: 0;
+         color: #fff;
+
+        }
+        .about-us {
+    background-color: #fff;
+    padding: 40px 0;
+    width: 100%;
+    float: left;
+    
+
+        }
+        span.border-span {
+    width: 1px;
+    height: 5px;
+    border: 1px solid;
+    margin: 0 9px 0px 7px;
+}
+    .logo
+
+    {margin-top: 50px;
+	font-size:30px;
+	width: 30%;
+	float: left;
+	color: #fff;
+       
+
+    }
+/*    .contentheader{
+     width: 100%;
+                 float: left;
+                 background-color:#fff;
+                 color:rgba(138, 20, 22, 1);
+    
+
+    }*/
+    .section-heading{
+    color:  rgba(138, 20, 22, 1);
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.about-us-text {
+    color:  rgba(138, 20, 22, 1);
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}.rightul {
+    padding-top: 40px !important;
+    width: 70%;
+    float: right;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+a:hover {
+    color: rgba(255, 255, 255, 1);
+}
+a{
+	text-decoration: none;
+}
+
+
+
+    </style>
+<head>
+	<title>BUDHAPE KI LATHI</title>
+</head>
+<body>
+    <div>
+        <header class="styleheader">
+   
+	
+        <h1 class="logo">&nbsp;&nbsp;&nbsp;BUDHAPE KI LATHI</h1>
+        <ul class="rightul">
+            <li><a href="Budape.html"><b>BACK TO HOME</b></a></li>
+        </ul>
+        </header>
+    </div>
+    <div class="about-us">
+        
+        <h2 class="section-heading">About us</h2>
+        <p class="about-us-text"><br><br>Budhape ki lathi-OLd Age Care compare the facilities provided to senior citizens from different NGOs and Old Age Homes, and is designed to assist residents with their activities of daily living in a home-like environment, residents can avail multiple services including vegetarian meals, housekeeping and laundry services, medication management and transportation assistance.Old age home has been set up with the aim of providing home comforts and peace of mind to seniors seeking peace and calm.<br><br><br>The objective of Bhudape ki Lathi is to provide care and succor to the old,residential care with full boarding & lodging facility to the old with medical care nursing care to the old, belonging mostly to poor & middle class individuals (above 60 years of age) of all denominations.	The objective of Bhudape ki Lathi is to provide care and succor to the old,residential care with full boarding & lodging facility to the old with medical care nursing care to the old, belonging mostly to poor & middle class individuals (above 60 years of age) of all denominations.<br><br><br>A Home Away From Home<br> is an attempt to provide a homely and respectable living for the Elders with utmost commitment, dedication, trust and care to promote compassion and love.
+
+The entire staff are committed to the physical, mental, emotional and spiritual well being of the Elders, in order to provide them with comfortable living with dignity and fullness - In The Evening Of Their Lives.
+					
+			 </p>
+	
+    </div>
+    <footer>
+		<p class="footer-text">Developed by</p> 
+		<p class="footer-text">Anshul Jain<span class="border-span"></span> Mayank Sharma</p>
+		<p>Copyright 2018</p>
+	</footer>
+</body>
+</html>
+

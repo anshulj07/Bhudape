@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        .styleheader
+            {       margin-top: 10px;
+                    background-color: rgba(138, 20, 22, 1);
+                width: 100%;
+                 float: left;
+                height:130px;
+                
+               
+            }
+            footer {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    background: #171717;
+}
+     body{
+	
+	 font-family: arial;
+	 font-size:18px;
+	 margin: 0;
+         color: #fff;
+
+        }
+        .about-us {
+    background-color: #fff;
+    padding: 40px 0;
+    width: 100%;
+    float: left;
+    
+
+        }
+        span.border-span {
+    width: 1px;
+    height: 5px;
+    border: 1px solid;
+    margin: 0 9px 0px 7px;
+}
+    .logo
+
+    {margin-top: 50px;
+	font-size:30px;
+	width: 30%;
+	float: left;
+	color: #fff;
+       
+
+    }
+/*    .contentheader{
+     width: 100%;
+                 float: left;
+                 background-color:#fff;
+                 color:rgba(138, 20, 22, 1);
+    
+
+    }*/
+    .section-heading{
+    color:  rgba(138, 20, 22, 1);
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.about-us-text {
+    color:  rgba(138, 20, 22, 1);
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}.rightul {
+    padding-top: 40px !important;
+    width: 70%;
+    float: right;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+a:hover {
+    color: rgba(255, 255, 255, 1);
+}
+a{
+	text-decoration: none;
+}
+
+
+
+    </style>
+<head>
+	<title>BUDHAPE KI LATHI</title>
+</head>
+<body>
+    <div>
+        <header class="styleheader">
+   
+	
+        <h1 class="logo">&nbsp;&nbsp;&nbsp;BUDHAPE KI LATHI</h1>
+        <ul class="rightul">
+            <li><a href="Budape.html"><b>BACK TO HOME</b></a></li>
+        </ul>
+        </header>
+    </div>
+    <div class="about-us">
+        
+        <h2 class="section-heading">DONATE NOW</h2>
+        <p class="about-us-text"><br><BR>Online Donation -  Want to DONATE to a cause of your choice with the comfort of a transparent monitoring mechanism? Create your own Donation Account Today .
+
+
+
+<br><br>GIFT a Donation Today - Want to GIFT a donation on a special occasion on behalf of a special person?
+<br><br>
+ 
+<span>Kotak mahindra Bank</span><br>
+<span>SB A/c no. 6011902036</span><br>
+<span>IFSC Code: KKBK0008073</span><br>
+<span>Home Branch: Ring Road,Indore-452011</span><br>
+<br><br>
+<span>Canara Bank</span><br>
+<span>SB A/c no. 2433101025253 (Contributions from India only)</span><br>
+<span>IFSC Code: CNRB0002433</span><br>
+<span>Swift Code: CNRBINBBLFD</span><br>
+<span>Pan Number: AAATO0608E</span><br>
+<br><br>
+<span>Canara Bank</span>
+<span>SB A/c no. 2433101006399 (Foreign contributions only)</span><br>
+<span>IFSC Code: CNRB0002433</span><br>
+<span>Swift Code: CNRBINBBLFD</span><br>
+<span>Pan Number: AAATO0608E</span><br>
+<br></p>
+	
+    </div>
+    <footer>
+		<p class="footer-text">Developed by</p> 
+		<p class="footer-text">Anshul Jain<span class="border-span"></span> Mayank Sharma</p>
+		<p>Copyright 2018</p>
+	</footer>
+</body>
+</html>
+

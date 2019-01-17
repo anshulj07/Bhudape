@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        .styleheader
+            {       margin-top: 10px;
+                    background-color: rgba(138, 20, 22, 1);
+                width: 100%;
+                 float: left;
+                height:130px;
+                
+               
+            }
+            footer {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    background: #171717;
+}
+     body{
+	
+	 font-family: arial;
+	 font-size:18px;
+	 margin: 0;
+         color: #fff;
+
+        }
+        .about-us {
+    background-color: #fff;
+    padding: 40px 0;
+    width: 100%;
+    float: left;
+    
+
+        }
+        span.border-span {
+    width: 1px;
+    height: 5px;
+    border: 1px solid;
+    margin: 0 9px 0px 7px;
+}
+    .logo
+
+    {margin-top: 50px;
+	font-size:30px;
+	width: 30%;
+	float: left;
+	color: #fff;
+       
+
+    }
+/*    .contentheader{
+     width: 100%;
+                 float: left;
+                 background-color:#fff;
+                 color:rgba(138, 20, 22, 1);
+    
+
+    }*/
+    .section-heading{
+    color:  rgba(138, 20, 22, 1);
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.about-us-text {
+    color:  rgba(138, 20, 22, 1);
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}.rightul {
+    padding-top: 40px !important;
+    width: 70%;
+    float: right;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+a:hover {
+    color: rgba(255, 255, 255, 1);
+}
+a{
+	text-decoration: none;
+}
+
+
+
+    </style>
+<head>
+	<title>BUDHAPE KI LATHI</title>
+</head>
+<body>
+    <div>
+        <header class="styleheader">
+   
+	
+        <h1 class="logo">&nbsp;&nbsp;&nbsp;BUDHAPE KI LATHI</h1>
+        <ul class="rightul">
+            <li><a href="Budape.html"><b>BACK TO HOME</b></a></li>
+        </ul>
+        </header>
+    </div>
+    <div class="about-us">
+        
+        <h2 class="section-heading">GET INVOLVED</h2>
+        <p class="about-us-text"><br><br>VOLUNTEER OPPORTUNITIES<br><br>
+Volunteers do not necessarily have the time, but they have hearts with compassion. They can visit the Elders and collect gifts of blessings with love. Spend quality time with Elders, Listen to their stories, Sing and Dance for them, Accompany them to temples and parks, Bring them small gifts, Make them smile by bringing along little children who will remind them of the little ones they nurtured.
+<br><br>SPONSORSHIP<br><br>
+Individuals and Establishments can come forward to sponsor the day to day routines  by way of sponsoring meals, day to day requirements like, Cots, beds, medical/elder assistance equipments, adult diapers, food grains, milk, fruits and vegetables, toiletries and bed linen and so on.<br><br>SPREAD THE WORLD<br><br>
+Well wishers can also contribute with the help of social media in helping to create awareness around the globe, by recommending and encouraging their near and dear ones to participate in the activities of the Homes.
+
+
+<br><br>
+</p></div>
+    <footer>
+		<p class="footer-text">Developed by</p> 
+		<p class="footer-text">Anshul Jain<span class="border-span"></span> Mayank Sharma</p>
+		<p>Copyright 2018</p>
+	</footer>
+</body>
+</html>
+

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        .styleheader
+            {       margin-top: 10px;
+                    background-color: rgba(138, 20, 22, 1);
+                width: 100%;
+                 float: left;
+                height:130px;
+                
+               
+            }
+            footer {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    background: #171717;
+}
+     body{
+	
+	 font-family: arial;
+	 font-size:18px;
+	 margin: 0;
+         color: #fff;
+
+        }
+        .about-us {
+    background-color: #fff;
+    padding: 40px 0;
+    width: 100%;
+    float: left;
+    
+
+        }
+        span.border-span {
+    width: 1px;
+    height: 5px;
+    border: 1px solid;
+    margin: 0 9px 0px 7px;
+}
+    .logo
+
+    {margin-top: 50px;
+	font-size:30px;
+	width: 30%;
+	float: left;
+	color: #fff;
+       
+
+    }
+/*    .contentheader{
+     width: 100%;
+                 float: left;
+                 background-color:#fff;
+                 color:rgba(138, 20, 22, 1);
+    
+
+    }*/
+    .section-heading{
+    color:  rgba(138, 20, 22, 1);
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.about-us-text {
+    color:  rgba(138, 20, 22, 1);
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}.rightul {
+    padding-top: 40px !important;
+    width: 70%;
+    float: right;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+a:hover {
+    color: rgba(255, 255, 255, 1);
+}
+a{
+	text-decoration: none;
+}
+
+
+
+    </style>
+<head>
+	<title>BUDHAPE KI LATHI</title>
+</head>
+<body>
+    <div>
+        <header class="styleheader">
+   
+	
+        <h1 class="logo">&nbsp;&nbsp;&nbsp;BUDHAPE KI LATHI</h1>
+        <ul class="rightul">
+            <li><a href="Budape.html"><b>BACK TO HOME</b></a></li>
+        </ul>
+        </header>
+    </div>
+    <div class="about-us">
+        
+        <h2 class="section-heading">INITIATIVES</h2>
+        <p class="about-us-text"><br>HEALTH CARE<br><br>
+ Budape ki lathi provides love filled care and succor to the Neglected and sick Elders of the society. The Homes are adorned by all medical equipment’s and nursing care by nurses trained in Geriatrics, Doctor-Specialists on call, Physiotherapy. Complete medical check up is carried out for every Elderly at the time of admission and the records are maintained periodically. providing shelter, the program aims to support senior citizens and help with their emotional and physical challenges. The Home and its staff give moral support and try to put a smile back on the faces of elderly clients with no one to look after them.<br><br><br>FACILITIES AND AMENITIES<br><br>
+Housed in two rented premises, Hygienically run kitchens by professional cooks for delicious vegetarian meals- Nutritious meals supporting the medical state of the Elders are being served which includes, Beverages, Fruit Juices, three meals and in between snacks with seasonal fruits and bed time-milk. Also including, Personal laundry, Library, Round the clock security, Yoga cum meditation facilities along with Televisions and other recreational activities like musical and dance programmes by volunteers young and old..<br>
+			 </p>
+	
+    </div>
+    <footer>
+		<p class="footer-text">Developed by</p> 
+		<p class="footer-text">Anshul Jain<span class="border-span"></span> Mayank Sharma</p>
+		<p>Copyright 2018</p>
+	</footer>
+</body>
+</html>
+
